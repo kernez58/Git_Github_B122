@@ -1,2 +1,3 @@
 ilk gun 1.deneme
 ilk gun 2.deneme
+ilk gun 3.deneme
